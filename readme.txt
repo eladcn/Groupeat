@@ -5,7 +5,7 @@
                         ╚██████╔╝██║  ██║╚██████╔╝╚██████╔╝██║     ███████╗██║  ██║   ██║   
                          ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   
                                                                     
-Created by: Elad Cohen, Hadar Yitzhaki and Liat Matzov.
+Created by: Hadar Yitzhaki, Liat Matzov and Elad Cohen.
 
 ###################################################################################################################
 The project contains a server side and a client side where the server's files can be found in the 'server' folder
